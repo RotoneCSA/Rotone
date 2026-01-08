@@ -117,7 +117,7 @@
   <section id="about">
     <h2>Galactic Adventurer</h2>
     <p>Hi! I’m Geramae Rotone, a playful dreamer inspired by Stitch. I love creativity, coding, and having fun exploring new adventures in web development!</p>
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/3c/Stitch.png" alt="Profile" width="200">
+    <img src=" (https://share.google/0yyGxNIkMZr43p1GS)ikipedia/en/3/3c/Stitch.png" alt="Profile" width="200">
   </section>
 
   <!-- Skills Section -->
